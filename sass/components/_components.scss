@@ -1,40 +1,33 @@
-@import './components/base';
-@import './components/reset';
-@import './components/container';
-@import './components/section';
+@import './container';
+@import './section';
 
-@import './components/header';
-@import './components/logo';
-@import './components/navigation-site';
-@import './components/contacts';
+@import './header';
+@import './logo';
+@import './navigation-site';
+@import './contacts';
 
-@import './components/page-header';
-@import './components/overlay';
-@import './components/btn-service';
+@import './hero';
+@import './overlay';
+@import './btn';
 
 
-@import './components/backdrop-modal';
-@import './components/btn-modal';
-@import './components/form-modal';
-@import './components/textarea';
-@import './components/agreement';
-@import './components/btn-submit';
+@import './features';
 
-@import './components/features';
+@import './work';
 
-@import './components/work';
+@import './team';
+@import './social';
 
-@import './components/team';
-@import './components/social-team';
+@import './clients';
 
-@import './components/clients';
+@import './filters';
+@import './portfolio';
+@import './overlay-portfolio';
 
-@import './components/filters';
-@import './components/btn-filters';
-@import './components/portfolio';
-@import './components/overlay-portfolio';
+@import './footer';
+@import './sing-up';
 
-@import './components/footer';
-@import './components/social-footer';
-@import './components/sing-up';
-@import './components/btn-sign';
+@import './backdrop-modal';
+@import './form-modal';
+@import './textarea';
+@import './agreement';
